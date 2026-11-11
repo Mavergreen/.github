@@ -1,9 +1,11 @@
 ## Mavergreen's goal:
 
-By providing modern dev tools -- some familiar, some homegrown --
-give developers leverage to ship modern software for Mavericks.
+Create leverage for developers to easily ship modern software for Mavericks,
+via a combination of familiar and bespoke dev tools.
 
-Clang and Swift and Go and Python and Java, of course, but also Shipyard, Recaulk, Drydock, Longboat, Stevedore, a Packer plugin to build Mavericks VMs, and a GitHub Action to run builds or tests in one.
+Familiar: Clang, Swift, Go, Python, Java, and so on.
+
+Bespoke: Shipyard, Recaulk, Drydock, Longboat, Stevedore, Packer automation for Mavericks VMs, and a GitHub Action to build or test in one.
 
 ## Mavergreen's must-haves:
 
