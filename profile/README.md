@@ -3,7 +3,7 @@
 By providing modern dev tools -- some familiar, some homegrown --
 give developers leverage to ship modern software for Mavericks.
 
-Clang and Swift, of course, but also Drydock and Recaulk.
+Clang and Swift and Go and Python and Java, of course, but also Shipyard, Recaulk, Drydock, Longboat, Stevedore, a Packer plugin to build Mavericks VMs, and a GitHub Action to run builds or tests in one.
 
 ## Mavergreen's must-haves:
 
