@@ -1,4 +1,11 @@
-## The Mavergreen rules:
+## Mavergreen's goal:
+
+By providing modern dev tools -- some familiar, some homegrown --
+give developers leverage to ship modern software for Mavericks.
+
+Clang and Swift, of course, but also Drydock and Recaulk.
+
+## Mavergreen's must-haves:
 
 ### 1. Runs on 10.9
 
